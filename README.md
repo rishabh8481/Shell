@@ -15,4 +15,4 @@ make
 ./shell-assignment1
 ```
 
-For further description of the project please refer [document] (https://github.com/rishabh8481/Shell/blob/master/Output.pdf)
+For further description of the project please refer [document](https://github.com/rishabh8481/Shell/blob/master/Output.pdf/)
